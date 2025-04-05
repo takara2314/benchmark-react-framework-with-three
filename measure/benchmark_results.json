@@ -1,0 +1,2648 @@
+{
+  "astro": [
+    {
+      "loadTimeMs": "740ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "64.00ms",
+      "largestContentfulPaintMs": "64.00ms",
+      "timeToInteractiveMs": "28.60ms",
+      "totalBlockingTimeMs": "719.30ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "712ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "40.00ms",
+      "largestContentfulPaintMs": "40.00ms",
+      "timeToInteractiveMs": "15.20ms",
+      "totalBlockingTimeMs": "702.00ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "710ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "40.00ms",
+      "largestContentfulPaintMs": "40.00ms",
+      "timeToInteractiveMs": "14.30ms",
+      "totalBlockingTimeMs": "703.10ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "740ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "40.00ms",
+      "largestContentfulPaintMs": "40.00ms",
+      "timeToInteractiveMs": "13.80ms",
+      "totalBlockingTimeMs": "731.40ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "714ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "44.00ms",
+      "largestContentfulPaintMs": "44.00ms",
+      "timeToInteractiveMs": "12.90ms",
+      "totalBlockingTimeMs": "706.10ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "726ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "40.00ms",
+      "largestContentfulPaintMs": "40.00ms",
+      "timeToInteractiveMs": "14.10ms",
+      "totalBlockingTimeMs": "720.20ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "705ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "36.00ms",
+      "largestContentfulPaintMs": "36.00ms",
+      "timeToInteractiveMs": "12.90ms",
+      "totalBlockingTimeMs": "696.30ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "724ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "40.00ms",
+      "largestContentfulPaintMs": "40.00ms",
+      "timeToInteractiveMs": "15.10ms",
+      "totalBlockingTimeMs": "712.50ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "726ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "40.00ms",
+      "largestContentfulPaintMs": "40.00ms",
+      "timeToInteractiveMs": "15.30ms",
+      "totalBlockingTimeMs": "719.20ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    },
+    {
+      "loadTimeMs": "715ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "36.00ms",
+      "largestContentfulPaintMs": "36.00ms",
+      "timeToInteractiveMs": "12.60ms",
+      "totalBlockingTimeMs": "706.20ms",
+      "bundleSizes": [
+        {
+          "name": "ThreeBlock._Vi77ScT.js",
+          "sizeKB": "0.13KB",
+          "gzipSizeKB": "0.12KB",
+          "type": "js"
+        },
+        {
+          "name": "NormalArea.CziejVfq.js",
+          "sizeKB": "0.58KB",
+          "gzipSizeKB": "0.41KB",
+          "type": "js"
+        },
+        {
+          "name": "jsx-runtime.D_zvdyIk.js",
+          "sizeKB": "0.71KB",
+          "gzipSizeKB": "0.45KB",
+          "type": "js"
+        },
+        {
+          "name": "client.BCjoY3LV.js",
+          "sizeKB": "1.69KB",
+          "gzipSizeKB": "0.85KB",
+          "type": "js"
+        },
+        {
+          "name": "ThreeBlock.BrzGZukH.js",
+          "sizeKB": "2.21KB",
+          "gzipSizeKB": "1.17KB",
+          "type": "js"
+        },
+        {
+          "name": "react-three-fiber.esm.BK_sIQNG.js",
+          "sizeKB": "5.57KB",
+          "gzipSizeKB": "2.29KB",
+          "type": "js"
+        },
+        {
+          "name": "index.Dofpnscu.css",
+          "sizeKB": "6.44KB",
+          "gzipSizeKB": "2.06KB",
+          "type": "css"
+        },
+        {
+          "name": "index.DatCARk7.js",
+          "sizeKB": "8.21KB",
+          "gzipSizeKB": "3.21KB",
+          "type": "js"
+        },
+        {
+          "name": "vision_bundle.CRyaiHya.js",
+          "sizeKB": "127.94KB",
+          "gzipSizeKB": "38.53KB",
+          "type": "js"
+        },
+        {
+          "name": "client.OVedi0Kd.js",
+          "sizeKB": "173.53KB",
+          "gzipSizeKB": "54.62KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm.VRvUfSjL.js",
+          "sizeKB": "828.69KB",
+          "gzipSizeKB": "223.76KB",
+          "type": "js"
+        },
+        {
+          "name": "index.iaxRvNXF.js",
+          "sizeKB": "1552.59KB",
+          "gzipSizeKB": "491.75KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2708.29KB",
+      "totalGzipSizeKB": "819.22KB",
+      "jsBundleSizeKB": "2701.85KB",
+      "cssBundleSizeKB": "6.44KB",
+      "jsGzipSizeKB": "817.16KB",
+      "cssGzipSizeKB": "2.06KB"
+    }
+  ],
+  "next": [
+    {
+      "loadTimeMs": "933ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "72.00ms",
+      "largestContentfulPaintMs": "72.00ms",
+      "timeToInteractiveMs": "17.80ms",
+      "totalBlockingTimeMs": "921.40ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "930ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "64.00ms",
+      "largestContentfulPaintMs": "64.00ms",
+      "timeToInteractiveMs": "14.90ms",
+      "totalBlockingTimeMs": "920.50ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "922ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "48.00ms",
+      "largestContentfulPaintMs": "48.00ms",
+      "timeToInteractiveMs": "15.00ms",
+      "totalBlockingTimeMs": "913.70ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "940ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "44.00ms",
+      "largestContentfulPaintMs": "44.00ms",
+      "timeToInteractiveMs": "31.80ms",
+      "totalBlockingTimeMs": "914.60ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "933ms",
+      "memoryUsageKB": "13964.84KB",
+      "firstContentfulPaintMs": "44.00ms",
+      "largestContentfulPaintMs": "44.00ms",
+      "timeToInteractiveMs": "33.30ms",
+      "totalBlockingTimeMs": "905.10ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "936ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "40.00ms",
+      "largestContentfulPaintMs": "40.00ms",
+      "timeToInteractiveMs": "29.90ms",
+      "totalBlockingTimeMs": "911.40ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "941ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "44.00ms",
+      "largestContentfulPaintMs": "44.00ms",
+      "timeToInteractiveMs": "15.00ms",
+      "totalBlockingTimeMs": "931.90ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "939ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "44.00ms",
+      "largestContentfulPaintMs": "44.00ms",
+      "timeToInteractiveMs": "15.50ms",
+      "totalBlockingTimeMs": "929.50ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "936ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "64.00ms",
+      "largestContentfulPaintMs": "64.00ms",
+      "timeToInteractiveMs": "15.30ms",
+      "totalBlockingTimeMs": "925.10ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "932ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "44.00ms",
+      "largestContentfulPaintMs": "44.00ms",
+      "timeToInteractiveMs": "31.30ms",
+      "totalBlockingTimeMs": "904.80ms",
+      "bundleSizes": [
+        {
+          "name": "main-app-49216cfeda4e4e7f.js",
+          "sizeKB": "0.49KB",
+          "gzipSizeKB": "0.21KB",
+          "type": "js"
+        },
+        {
+          "name": "356.6551c47cf8f34e60.js",
+          "sizeKB": "1.13KB",
+          "gzipSizeKB": "0.58KB",
+          "type": "js"
+        },
+        {
+          "name": "webpack-333f80ef49a6a2bc.js",
+          "sizeKB": "3.68KB",
+          "gzipSizeKB": "1.92KB",
+          "type": "js"
+        },
+        {
+          "name": "558.a0640c6dcda59de5.js",
+          "sizeKB": "5.39KB",
+          "gzipSizeKB": "2.18KB",
+          "type": "js"
+        },
+        {
+          "name": "01b6af1e89f73bbd.css",
+          "sizeKB": "6.39KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "199.1eaa5983580c38b6.js",
+          "sizeKB": "36.76KB",
+          "gzipSizeKB": "13.54KB",
+          "type": "js"
+        },
+        {
+          "name": "0f8af13e.c7ad572a1ba39baf.js",
+          "sizeKB": "79.22KB",
+          "gzipSizeKB": "27.45KB",
+          "type": "js"
+        },
+        {
+          "name": "1329d575.4452f97aba7a1d35.js",
+          "sizeKB": "107.21KB",
+          "gzipSizeKB": "33.17KB",
+          "type": "js"
+        },
+        {
+          "name": "polyfills-42372ed130431b0a.js",
+          "sizeKB": "109.96KB",
+          "gzipSizeKB": "38.7KB",
+          "type": "js"
+        },
+        {
+          "name": "main-dac8f658a250f732.js",
+          "sizeKB": "116.52KB",
+          "gzipSizeKB": "33.38KB",
+          "type": "js"
+        },
+        {
+          "name": "998.126ce2fb1ee217c0.js",
+          "sizeKB": "134.65KB",
+          "gzipSizeKB": "39.45KB",
+          "type": "js"
+        },
+        {
+          "name": "4bd1b696-79cb3afe49abba44.js",
+          "sizeKB": "165.14KB",
+          "gzipSizeKB": "52.09KB",
+          "type": "js"
+        },
+        {
+          "name": "684-f0a89469c1ba3d45.js",
+          "sizeKB": "168.9KB",
+          "gzipSizeKB": "44.43KB",
+          "type": "js"
+        },
+        {
+          "name": "framework-17e4362dfeb1e631.js",
+          "sizeKB": "178.51KB",
+          "gzipSizeKB": "56.42KB",
+          "type": "js"
+        },
+        {
+          "name": "b536a0f1.b98e48667c30b853.js",
+          "sizeKB": "322.87KB",
+          "gzipSizeKB": "76.75KB",
+          "type": "js"
+        },
+        {
+          "name": "bd904a5c.efa834509e3cc6e4.js",
+          "sizeKB": "353.67KB",
+          "gzipSizeKB": "94.58KB",
+          "type": "js"
+        },
+        {
+          "name": "a4634e51.d36a2f1da9c0bdd7.js",
+          "sizeKB": "484.31KB",
+          "gzipSizeKB": "147.19KB",
+          "type": "js"
+        },
+        {
+          "name": "414.d2a6ffd59a707885.js",
+          "sizeKB": "1006.56KB",
+          "gzipSizeKB": "313.65KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "3281.36KB",
+      "totalGzipSizeKB": "977.76KB",
+      "jsBundleSizeKB": "3274.97KB",
+      "cssBundleSizeKB": "6.39KB",
+      "jsGzipSizeKB": "975.69KB",
+      "cssGzipSizeKB": "2.07KB"
+    }
+  ],
+  "vite": [
+    {
+      "loadTimeMs": "981ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "52.00ms",
+      "largestContentfulPaintMs": "52.00ms",
+      "timeToInteractiveMs": "8.30ms",
+      "totalBlockingTimeMs": "980.10ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "982ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "64.00ms",
+      "largestContentfulPaintMs": "64.00ms",
+      "timeToInteractiveMs": "8.50ms",
+      "totalBlockingTimeMs": "980.90ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "974ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "60.00ms",
+      "largestContentfulPaintMs": "60.00ms",
+      "timeToInteractiveMs": "8.00ms",
+      "totalBlockingTimeMs": "974.90ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "979ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "64.00ms",
+      "largestContentfulPaintMs": "64.00ms",
+      "timeToInteractiveMs": "7.90ms",
+      "totalBlockingTimeMs": "977.80ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "977ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "60.00ms",
+      "largestContentfulPaintMs": "60.00ms",
+      "timeToInteractiveMs": "8.10ms",
+      "totalBlockingTimeMs": "975.60ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "988ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "56.00ms",
+      "largestContentfulPaintMs": "56.00ms",
+      "timeToInteractiveMs": "8.30ms",
+      "totalBlockingTimeMs": "985.20ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "993ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "60.00ms",
+      "largestContentfulPaintMs": "60.00ms",
+      "timeToInteractiveMs": "8.20ms",
+      "totalBlockingTimeMs": "992.00ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "975ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "56.00ms",
+      "largestContentfulPaintMs": "56.00ms",
+      "timeToInteractiveMs": "8.60ms",
+      "totalBlockingTimeMs": "972.70ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "977ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "60.00ms",
+      "largestContentfulPaintMs": "60.00ms",
+      "timeToInteractiveMs": "8.00ms",
+      "totalBlockingTimeMs": "975.80ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    },
+    {
+      "loadTimeMs": "978ms",
+      "memoryUsageKB": "14843.75KB",
+      "firstContentfulPaintMs": "60.00ms",
+      "largestContentfulPaintMs": "60.00ms",
+      "timeToInteractiveMs": "8.20ms",
+      "totalBlockingTimeMs": "979.10ms",
+      "bundleSizes": [
+        {
+          "name": "react-three-fiber.esm-GOXqyT8l.js",
+          "sizeKB": "5.54KB",
+          "gzipSizeKB": "2.28KB",
+          "type": "js"
+        },
+        {
+          "name": "index-BKSeJ4C6.css",
+          "sizeKB": "6.55KB",
+          "gzipSizeKB": "2.07KB",
+          "type": "css"
+        },
+        {
+          "name": "vision_bundle-CLqZKGIV.js",
+          "sizeKB": "128.86KB",
+          "gzipSizeKB": "38.85KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Dmp_2UB6.js",
+          "sizeKB": "186.14KB",
+          "gzipSizeKB": "59.04KB",
+          "type": "js"
+        },
+        {
+          "name": "events-9ea6854d.esm-Bhf7ZhmP.js",
+          "sizeKB": "828.84KB",
+          "gzipSizeKB": "223.77KB",
+          "type": "js"
+        },
+        {
+          "name": "index-Be2CBAxK.js",
+          "sizeKB": "1555.52KB",
+          "gzipSizeKB": "492.17KB",
+          "type": "js"
+        }
+      ],
+      "totalBundleSizeKB": "2711.45KB",
+      "totalGzipSizeKB": "818.18KB",
+      "jsBundleSizeKB": "2704.90KB",
+      "cssBundleSizeKB": "6.55KB",
+      "jsGzipSizeKB": "816.11KB",
+      "cssGzipSizeKB": "2.07KB"
+    }
+  ]
+}

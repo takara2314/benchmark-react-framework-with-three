@@ -1,0 +1,4 @@
+framework,loadTimeMs,memoryUsageKB,firstContentfulPaintMs,largestContentfulPaintMs,timeToInteractiveMs,totalBlockingTimeMs,totalBundleSizeKB,totalGzipSizeKB,jsBundleSizeKB,cssBundleSizeKB,jsGzipSizeKB,cssGzipSizeKB
+astro,721,14844,42,42,15.5,711.6,2708.29,819.22,2701.85,6.44,817.16,2.06
+vite,980,14844,59,59,8.2,979.4,2711.45,818.18,2704.9,6.55,816.11,2.07
+next,934,14756,51,51,22,917.8,3281.36,977.76,3274.97,6.39,975.69,2.07

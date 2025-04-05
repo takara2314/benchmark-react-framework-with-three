@@ -1,0 +1,22 @@
+{
+  "name": "benchmark-react-framework-with-three",
+  "version": "1.0.0",
+  "description": "Benchmark for React Framework with Three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "benchmark": "ts-node measure/benchmark_runner.ts && ts-node measure/benchmark_results_formatter.ts && ts-node measure/benchmark_results_convert_csv.ts && ts-node measure/benchmark_results_summary.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "json5": "^2.2.3"
+  }
+}
